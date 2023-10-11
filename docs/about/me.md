@@ -1,6 +1,6 @@
 # About
 
-![](../images/me.jpg)
+![](../images/me.JPG)
 
 My name is Everardo Castro Torres, I am from Sinaloa, México. I have the fortune to have lived, work and visit various parts of my country. I am deeply in love of its rawness, people and knowledge. I studied the Bachelor of Architecture at Universidad de Monterrey (UDEM), did an exchange program at Royal Melbourne Institute of Technology (RMIT) and have worked in Tulum, and Sinaloa as an architect, as well as developing my growing interest in experimentation with matter and making objects. 
 
