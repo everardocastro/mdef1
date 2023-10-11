@@ -1,7 +1,7 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Everardo Castro - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
+site_author: Everardo Castro
 copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
@@ -15,7 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
+          - Landing: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
@@ -43,7 +43,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
+    primary: purple
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
