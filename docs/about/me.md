@@ -2,7 +2,7 @@
 
 ![](../images/me.JPG)
 
-My name is Everardo Castro Torres, I am from Sinaloa, México. I have the fortune to have lived, work and visit various parts of my country. I am deeply in love of its rawness, people and knowledge. I studied the Bachelor of Architecture at Universidad de Monterrey (UDEM), did an exchange program at Royal Melbourne Institute of Technology (RMIT) and have worked in Tulum, and Sinaloa as an architect, as well as developing my growing interest in experimentation with matter and making objects. 
+jahkjashdMy name is Everardo Castro Torres, I am from Sinaloa, México. I have the fortune to have lived, work and visit various parts of my country. I am deeply in love of its rawness, people and knowledge. I studied the Bachelor of Architecture at Universidad de Monterrey (UDEM), did an exchange program at Royal Melbourne Institute of Technology (RMIT) and have worked in Tulum, and Sinaloa as an architect, as well as developing my growing interest in experimentation with matter and making objects. 
 
 I am very interested in working alongside nature to generate materials and new ways of experiencing spaces and objects, and therefore change our perspective of how we view our world. Currently I am developing a project where I design and create functional and sculptural objects made from wild clay that I collect, process, hand build and then wood fire myself in my pit fire kiln. I’ve also been experimenting with bacterial cellulose and fungi, and I am very excited by the possibilities of these and many more materials.
 
