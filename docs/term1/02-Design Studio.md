@@ -49,3 +49,12 @@ This is a prototype I made to exemplify the idea of making music even more acces
 <figure markdown>
   ![](../images/Design studio/IMG-1298.GIF){ width="300" } voice
 </figure>
+
+##My toolbox
+<figure markdown>
+  ![](../images/Design studio/mytoolbox2.JPG){ width="300" }
+</figure>
+
+<figure markdown>
+  ![](../images/Design studio/mytoolbox2.jpg) 
+</figure>
