@@ -51,9 +51,6 @@ This is a prototype I made to exemplify the idea of making music even more acces
 </figure>
 
 ##My toolbox
-<figure markdown>
-  ![](../images/Design studio/mytoolbox2.JPG){ width="300" }
-</figure>
 
 <figure markdown>
   ![](../images/Design studio/mytoolbox2.jpg) 
