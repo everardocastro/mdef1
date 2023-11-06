@@ -4,6 +4,7 @@ hide:
 ---
 
 # Landing
+![Alt text](../images/Landing/1.jpeg){ width="400" }
 
 The first week has been full of new topics, new people, new places. So far it has been very stimulating, I find it very helpful to get to know all the people and places that we can count on during this master. Also it has been quite challenging, as some of us are traveling across the planet to be part of this exciting project. With a new country come new cultural ways, new home, new friends, new food, so this week is the introduction to our new life basically.
 
@@ -26,7 +27,10 @@ We were introduced to the Poblenou District and some of the nearby galleries, la
 Day 4:
 This was the documenting and presenting day. We had sessions with Pablo and Santi who introduced the webpage submissions methodology, as well as the importance of documenting everything, especially our failures, which are basically the turning points and the aha moments.
 
+<video src="../images/Landing/landingvideo.mp4" controls title="Title"></video>
 
 Day 5:
 We visited the ELISAVA campus. This tour was very helpful to know all the tools and workshops that are in our disposition. I really liked the library, which is very extended and design oriented. We had a session with Laura that introduced us to other projects where we could collaborate such as the wet lab and others who work with a non-heteropatriarchal approach.
+
+
 

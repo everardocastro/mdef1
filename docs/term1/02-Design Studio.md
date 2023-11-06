@@ -55,3 +55,7 @@ This is a prototype I made to exemplify the idea of making music even more acces
 <figure markdown>
   ![](../images/Design studio/mytoolbox2.jpg) 
 </figure>
+
+<figure markdown>
+  ![](../images/spin.gif)
+</figure>
