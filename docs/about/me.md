@@ -8,4 +8,3 @@ I am very interested in working alongside nature to generate materials and new w
 
 Ultimately my vision of the future is a place where our activities and creations, whether it is an object, a living space or a city, or even software and hardware do not alienize us from our planet, but bring us much closer to our nature, allowing humans and the other species to thrive in this interconnected world. I am very excited about the making possibilities of MDEF and the exchange of knowledge between people from different disciplines and parts of the world, and I am also very keen on getting my hands dirty!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**

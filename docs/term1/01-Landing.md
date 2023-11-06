@@ -4,6 +4,11 @@ hide:
 ---
 
 # Landing
+
+<figure markdown>
+  ![](../images/Landing/perseverance.gif){ width="700" } perseverance rover landing on mars
+</figure>
+
 ![Alt text](../images/Landing/1.jpeg){ width="400" }
 
 The first week has been full of new topics, new people, new places. So far it has been very stimulating, I find it very helpful to get to know all the people and places that we can count on during this master. Also it has been quite challenging, as some of us are traveling across the planet to be part of this exciting project. With a new country come new cultural ways, new home, new friends, new food, so this week is the introduction to our new life basically.
