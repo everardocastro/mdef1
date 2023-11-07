@@ -6,7 +6,7 @@ hide:
 # Design Studio
 
 <figure markdown>
-  ![](../images/spin.gif)
+  ![](../images/espirall.gif)
 </figure>
 
 ## FPP Approach
