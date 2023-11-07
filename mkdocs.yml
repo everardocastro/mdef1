@@ -13,11 +13,15 @@ nav:
   - About: about/me.md
   - Reflections :
       - Term 1:
-          - Landing: term1/01-Landing.md
-          - Design Studio: term1/02-Design Studio.md
+          - Landing: term1/01-Landing.md 
+          - Design Studio: 
+             - Design Studio: term1/02-Design Studio.md
+             - Design Intervention: term1/02-Design Intervention.md
           - AoWS: term1/03-Atlas of Weak Signals.md
           - Documenting Design: term1/04-Documenting Design.md
-          - The Machine Paradox: term1/05-The Machine Paradox.md
+          - The Machine Paradox: 
+             - Forensic Report: term1/05-Forensic Report.md
+             - Triggered: term1/05-Triggered.md
           - Living with your own ideas: term1/06-Living with your own ideas.md
 
       - Term 2:
@@ -48,7 +52,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: black
-    accent: purple
+    accent: red
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
