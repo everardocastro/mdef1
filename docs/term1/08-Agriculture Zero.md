@@ -53,12 +53,6 @@ At the end I woke up naturally with the sunlight but I went to my bed and slept 
 I had some observations like how candle lights can give a cozier ambient and how their intensity and tone of light does not interfere with the production of melatonin, the hormone that helps us to relax our body and fall asleep. Talking with my roommates in our candle lighten living I could notice how our conversations deepened and even our voice tones became more neutral, it almost felt like when you have a dreamy talk (when you are half asleep and half awake).
 With this exercise I could be more aware on how modern life disconnects us with our circadian rhythm because our day is full of artificial lights, screens and closed spaces that are not sensible with the importance of this relation between our body and the sun light cycle.  
 
-## SOL
-<figure markdown>
-<iframe width="344" height="611" src="https://www.youtube.com/embed/0dxrRmcDunA" title="Sol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</figure>
-
-
 ### What happens when you involve yourself?  What happens when you use yourself as an instrument?
 It allows you to get a deeper understanding of a certain subject because you have a bodily experience of it, and new ideas and questionings come up that wouldn’t if you had a more external view of the subject.
 

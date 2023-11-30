@@ -44,7 +44,9 @@ We were introduced to the Poblenou District and some of the nearby galleries, la
 
 This was the documenting and presenting day. We had sessions with Pablo and Santi who introduced the webpage submissions methodology, as well as the importance of documenting everything, especially our failures, which are basically the turning points and the aha moments.
 
-<video src="../images/Landing/landingvideo.mp4" controls title="Title"></video>
+<figure markdown>
+<iframe width="344" height="611" src="https://www.youtube.com/embed/mV-GLbHLR7E" title="First week MDEF at Iaac/Fab Lab Barcelona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure markdown>
 
 ## Day 5:
 

@@ -23,6 +23,8 @@ nav:
              - Forensic Report: term1/05-Forensic Report.md
              - Triggered: term1/05-Triggered.md
           - Living with your own ideas: term1/06-Living with your own ideas.md
+          - Biology Zero: term1/07-Biology Zero.md
+          - Agriculture Zero: term1/08-Agriculture Zero.md
 
       - Term 2:
           - digi: term1/01-Landing.md
@@ -58,7 +60,7 @@ theme:
     text: Be Vietnam
     code: Cutive Mono
   icon:
-    logo: material/memory
+    logo: images/spiralo.svg
   favicon: images/favicon.svg
   features:
     - instant
