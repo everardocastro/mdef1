@@ -35,5 +35,8 @@ To carry out experiments using bacteria ourselves and to see microorganisms with
 
 ## GMO Proposal
 
-C:\Users\evera\Desktop\MDEF\mdef-template\docs\files\GMO Proposal_The growth of hydrophobic and self-cleaning bacterial cellulose introducing surface related genes from Nelumbo Lucifera_Everardo Castro Torres.pdf
+<iframe width="100%" height="800" src="../../files/GMOProposal_Thegrowthofhydrophobicandself-cleaningbacterialcelluloseintroducingsurfacerelatedgenesfromNelumboLucifera_EverardoCastroTorres.pdf"></iframe>
+
+
+
 

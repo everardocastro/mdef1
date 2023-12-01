@@ -3,6 +3,6 @@ hide:
     - toc
 ---
 
-# Initial ideas
+# Work in progress, stay tuned...
 
-Work in progress, stay tuned...
+

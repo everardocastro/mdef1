@@ -5,9 +5,8 @@ hide:
 
 # Design Intervention
 
-![Alt text](../images/Design studio/1.jpeg){ width="400";  margin-right="10px" } ![Alt text](../images/Design studio/2.jpeg){ width="400" }
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHRQfQBA0QU?si=vBiY5EiPf_XeZeok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Alt text](../images/Design studio/1.jpeg){ width="400";  margin-right="10px" } ![Alt text](../images/Design studio/2.jpeg){ width="400" }
 
 ## Deform your face
 
@@ -21,6 +20,10 @@ Our intervention wants to explore the following questions:
 - After changing your face, do you feel more like yourself or less like yourself?
 
 After getting all the answers and having the majority of people choosing features that they identify with, enhancing their owns, we can reflect that the ability of change can reinforce one’s identity, impacting in areas like confidence, self-image and self-awareness.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHRQfQBA0QU?si=vBiY5EiPf_XeZeok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 
