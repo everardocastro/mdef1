@@ -33,14 +33,16 @@ nav:
           - Design Studio 2:
             - Chaos Fungorum: term2/01a-Chaos Fungorum.md
           - Designing in a State of Climate Emergency: term2/01-Designing in a State of Climate Emergency.md
-          - Design with Values: term2/02-Design with Values.md
-          - Fair Futures: term2/03-Fair Futures.md
+          - Future Talks: 
+            -  Design with Values: term2/02-Design with Values.md
+          - Designing with Collective Intelligences: term2/03-Fair Futures.md
           - Digital Prototyping for Design: 
             - Laser Cut: term2/04-Laser.md
             - Paste Printing: term2/04a-3D.md
             - CNC Milling: term2/04b-CNC.md
           - Measuring the World: term2/05-Measuring the World.md
-          - Micro Challenge I: 
+          - Micro Challenges: 
+            - Myco Farm: term2/06-Myco Farm.md
   - Master project:
       - Initial ideas: project/project.md
 
