@@ -1,6 +1,6 @@
 ## terrestre
 
-<iframe width="100%" height="800" src="../../files/everardo_stakeholders.pdf"></iframe>
+<iframe width="100%" height="800" src="../../files/everardo_communicating ideas.pdf"></iframe>
 
 ## Stakeholders reflection:
 
