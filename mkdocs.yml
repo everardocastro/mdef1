@@ -11,7 +11,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Reflections :
+  - Reflections:
       - Term 1:
           - Landing: term1/01-Landing.md 
           - Design Studio: 
@@ -42,7 +42,8 @@ nav:
             - CNC Milling: term2/04b-CNC.md
           - Measuring the World: term2/05-Measuring the World.md
           - Micro Challenges: 
-            - Myco Farm: term2/06-Myco Farm.md
+            - Myco Farm: term2/06-Mycofarm.md
+            - GAIA: term2/06a-GAIA.md
           - Extended Intelligences: term2/07-Extended Intelligences.md
           - Communicating Ideas: term2/08-Communicating ideas.md
       - Master project:
