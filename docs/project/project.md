@@ -55,7 +55,7 @@ How to redefine our relationships…
 - The goal is to manufacture with whats around, we use and transform our organic and inorganic waste, using the space, energy source, and tools we have available locally.
 - DIY-DIT, Opensource Methodology.
 
-*Incorporate passive methods, low tech and high tech:
+**Incorporate passive methods, low tech and high tech**
 
 - Microorganisms power of degradation and transformation, and as a result of some bioprocesses, “material” growth (mycelium based materials and bacterial cellulose).
 - Harvesting solar, wind and kinetick energy for electricity, light and heat.
