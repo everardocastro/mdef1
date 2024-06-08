@@ -60,7 +60,7 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
-### Artifact 3 & 4 in course, stay tuned...
+### **Artifact 3 & 4 in process, stay tuned...**
 
 ### References:
 
