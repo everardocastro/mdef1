@@ -4,29 +4,20 @@
   ![](../images/TERM II/06 GAIA/GAIA00.jpg)
 </figure>
 
-#### Github Repository link: https://github.com/niente010/GAIA
-### Abstract
+### Reflection
 
-This summer, the slogan was “In a fire, we don’t just lose a forest” and was accompanied by an image of a burned doll. And it’s things like this that indicate how much we have to change our way of thinking. Because if the only way to convey to people how bad fires are is to resort to images of dead children, it seems we have serious problems. As if, in and of itself, a forest was not enough of a loss. 
+This project was a crazy challenge. It has electronics, hardware adaptations, sensors, soft robot, and it hosts living organisms. Looking back, I am impressed on the outcome in the short time we had to develop it. One of the most impressed outcomes I had from this challenge is that you have to try things to allow them to fail and quickly come up with solutions. This challenge demanded our creativity on full, and cooperation as a group.
 
-<< [1] “Timothy Morton: Una Ecología Sin Natu¬raleza.” CCCB LAB, Roc Jiménez de Cisneros, 13 Dec. 2016, lab.cccb.org/es/timothy-morton-ecolo¬gia-sin-naturaleza/. Accessed 14 Mar. 2024>> 
+In a group work it is important to divide the work and to be concious of what everybody tasks is. In this case, some were focused on the electronics, some others on ,he hardare, others on the software, etc. but of course if its necessary, we can trespass these frontiers and help each other when needed. 
 
-Nature is a concept raised from an anthropocentric prism. It is designed for humans. What is nature? it’s in my DNA it’s beneath the asphalt, it’s out there, in the distance. Beyond the mountain range, some¬where. So Nature has this irreducible quality of being elsewhere and being something else.
+Personally this was a very fun time creatingwith friends. It also opened up future ideas to further develop the project, which eventually ended up as part of an exhibibion in Cesenatico Italia!
+And one more important lesson, be carefull with electronics and water. Good thing we covered the mother board and most of the electronics in a vacummed plastic. For the challenge there was no problem. But eventually was meant to happen one day, happened one day before our exhibition in itally, we had a leak of water into one of the computers which resulted on it no longer working. 
+Expect and prepare for the worse my friends. But have fun and never loose hope 😉
 
- << [2] “Timothy Morton: Una Ecología Sin Naturaleza.” CCCB LAB, Roc Jiménez de Cisneros, 13 Dec. 2016, lab.cccb.org/ es/timothy-morton-ecologia-sin-naturaleza/. Accessed 14 Mar. 2024>> 
+### Github Repository link: 
 
-What does it mean to experience an ecological vision? We have buried them under smooth, satin-finished, shiny, clean surfaces away from grime, moisture and decay, it is easy to feel safe. It involves recognizing and valuing the links encountered in our daily interactions with both living beings and non-living beings. 
+https://github.com/niente010/GAIA
 
-Considering these spaces as a place of care and attention to things that we are not used to taking into account, to sometimes invisible presences, to what we reject. We cannot feel our pupils dilate in the dark. Typically, these connections remain hidden, whether by digital interfaces or the physical and spatial divisions of urban and natural spaces.
-
-But what if, instead of separating these connections, we try to merge and accentuate them? What if we could design from scratch technologies to be in a more symbiotic relationship with the natural infra¬structure that supports them? And also, who decided that technologies should be designed in isolation from these natural systems?
-
-<< [3] Preciado, Paul B, et al. Countersexual Manifesto : Subverting Gender Iden-tities. New York ; Chichester, West Sussex Columbia University Press, 2018.>> 
-
-Challenging to the authenticity of vision and percep¬tion of what is considered real. Taking on a role as mutant-objects, researching for new beigns for stim¬ulate the cultural awareness of our time to come to necessary capability for metamorphosis. 
-“If we had allocated as much research to communicating with trees as we have to the extraction and use of oil, we might now be able to power a city through photosynthesis, or experience the flow of plant sap in our veins. Yet, our Western civilization has prioritized capital and domination, taxonomy and identification, over cooperation and mutual transformation.” 
-
-What would really happen if we stopped sailing against the current and just let ourselves be swept away? Let the organic invade the synthetic, the physical fibre the digital and the humid the hygienic.
 
 
 
