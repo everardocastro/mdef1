@@ -1,11 +1,10 @@
 ## Task 3
-
-Project with: Jorge Muñoz Zanón, Ana Fedele, Sophie Marandon
-
+### Pottery Wheel
+Project with: Jorge Muñoz Zanón, Ana Fedele, Sophie Marandon, Nicolò Baldi, Annna Lozano
 
 
 <figure markdown>
-  ![](../images/TERM II/03 Digital Prototyping/mycofarm.jpeg)
+  ![](../images/TERM II/03 Digital Prototyping/torno.png)
 </figure>
 
 ### Design
