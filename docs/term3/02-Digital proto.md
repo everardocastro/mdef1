@@ -1,33 +1,40 @@
-## Task 3
-### Pottery Wheel
-Project with: Jorge Muñoz Zanón, Ana Fedele, Sophie Marandon, Nicolò Baldi, Annna Lozano
+## Task 4. Interaction design (inputs)
 
+For this task Francisca and I partnered to play with different inputs. We both wanted to use the body as an input to eventually control some outputs. 
+
+### 1.	Discovering the tools
 
 <figure markdown>
-  ![](../images/TERM II/03 Digital Prototyping/torno.png)
+  ![](../images/TERM II/03 Digital Prototyping/download.gif){ width="500" } 
 </figure>
 
-### Design
+First, we started by playing with Weakinator, a new tool for machine learning that can take different inputs to learn patterns. In this case we started by facial expressions using the webcam.
+It took several takes for it to start recognizing and differentiating the facial expressions, but we were surprised on how easy it is to handle. 
 
-This first microchallenge was an interesting exercise that allowed us to explore many different processes involved, as well as the difficulties that accompany them. In order to prototype our sketched idea, we had to model some pieces in rhinoceros, and even though it included digitally designed pieces, at the end these had to be modified by hand in order to comply with the desired function. For example, when we designed the 3d printed clay piece, at the end we decided to manually make a section and cut it in 2 in order for the interior of the piece to e shown, as well as some ventilation and moisture holes where the mycelium could grow freely outside the piece.
-At the end, because of time shortage, we used the same design but printed in PLA. We did not have enough time to let the clay one dry and fire it.
+<figure markdown>
+  ![](../images/TERM II/03 Digital Prototyping/4wekinator.jpg){ width="500" } 
+</figure>
 
-Dealing with 3d models and physical hand post processing opens up the possibility that not everything has to be perfectly designed from the beginning for it to be useful for a prototype. Everything can be tweaked and or upcycled in some way, which in many cases can save materials and time.
+### 2.	Building sensor
 
-Another insight worth mentioning is that every tool and machine demands time to be learned and managed. I can say that we spent a good amount of time dealing with the paste printer. We had some setbacks until we accomplished the right balance between all the variables like material consistency, machine speed, pressure, model´s gcode, etc...
+We tried to build a soft sensor made out of fabric that was provided for the task. We tried with the pressure sensor in order to trigger some actions when certain values where obtained. But, after talking with Citlali, she suggested for us to work with the phones sensors to get more possibilities.
 
-We can say that at the end of this microchallenge we became more confident with the printers and gave us the opportunity to be creative with our limited time and knowledge.  
+<figure markdown>
+  ![](../images/TERM II/03 Digital Prototyping/4sensor.jpg){ width="500" } 
+</figure>
 
+### 3.	Hacking our phones to read Sensors.
+Once we could choose the variables and teach the weakinator, we aked Citlali about the detect body movements to use them as inputs. She mentioned that developing sensors from scratch demands time and sometimes they can not as accurate as expected. For the time frame we had she suggested to use the sensors our phones already have.
 
-## Repo
-https://github.com/jmuozan/Myco-farm
+To be able to access the sensors we had to download SIG ZIM (ios), an application that allows you to obtain the data from the different sensors in your phone. In this case we wanted to obtain the data form the gyroscope or accelerometer.
 
-## Task 4
+Through various attempts we were able to obtain the data, send it to Weakinator and train the machine. But as these sensors are very sensible and oscillate a lot, they are not very accurate on what we wanted to obtain, which was for it to recognize specific movements. 
 
-Training Weakinator and prototyping a wearable sensor 
+Our classmate Carmen suggested us to try with the quaternion sensor which encodes information about an axis-angle rotation about an arbitrary axis. This unit was more accurate and we were able to train a weakinator with a movement that we later used to play with the outputs of the next task.
 
-We started by playing with Weakinator, a new tool for machine learning that can take 
-
+<figure markdown>
+  ![](../images/TERM II/03 Digital Prototyping/SIGZIM.png){ width="500" } 
+</figure>
 
 
 
